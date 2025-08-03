@@ -4,6 +4,10 @@ The purpose of this repository and its content is to help save time in a SOC by 
 
 The goal is to minimize the complexity for the operators, so they can focus on investigation instead of how to use the notebooks.
 
+At PSConfEU 2025 this repository has been used [for a presentation](https://github.com/psconfeu/2025/tree/main/DavidSass/soc-on-stage) which has also been recorded:
+
+[![Watch the video](https://img.youtube.com/vi/cbUktoR8z8A/hqdefault.jpg)](https://www.youtube.com/embed/cbUktoR8z8A)
+
 ## Usage
 
 The usage could be summarized into THREE main steps:
